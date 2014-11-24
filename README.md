@@ -4,6 +4,10 @@ RateIt is an activesupport concern module intended to add rateable functionality
 ###Version
 1.0.0
 
+
+###ETA
+  2 hours from 2pm IST  to 4pm IST
+  
 ###Dependencies
  * Rails 3.X or 4.X
  * ActiveRecord
